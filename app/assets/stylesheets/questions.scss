@@ -1,0 +1,30 @@
+// Place all the styles related to the questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&family=Open+Sans:wght@300;400&display=swap');
+
+body {
+  text-align: center;
+  font-family: 'Luckiest Guy', cursive;
+  background-color: #00b7c2;
+}
+
+p {
+  padding-bottom: 10px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+a {
+  padding: 10px;
+  background-color: #d54062;
+  border: 1px black solid;
+  border-radius: 5px;
+  color: black;
+  text-decoration: none;
+}
+
+a:hover {
+  background-color: #ffa36c;
+}
